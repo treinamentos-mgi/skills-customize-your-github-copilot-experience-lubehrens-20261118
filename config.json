@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "searching-sorting-python",
+      "title": "Searching and Sorting in Python",
+      "description": "Implement and compare linear search, insertion sort, and binary search in Python.",
+      "path": "assignments/searching-sorting-python",
+      "dueDate": "2026-11-25",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
